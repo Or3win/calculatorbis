@@ -1,0 +1,9 @@
+{
+    "files": [
+     {
+         "pattern": "libs-snapshot-local/*(calculator).jar",
+         "target": "artifactory-download/{1}/",
+         "props": "p1=v1;p2=v2"
+       }
+    ]
+   }
